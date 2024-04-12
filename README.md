@@ -1,2 +1,6 @@
-Data Source: https://www.kaggle.com/datasets/davidcariboo/player-scores
+## Project Status
+This project is currently a work in progress.
+
+## Data Source
+https://www.kaggle.com/datasets/davidcariboo/player-scores
 The source was obtained from Kaggle. We selected three Excel files: clubs.csv, players.csv, and player_valuations.csv for the project.
